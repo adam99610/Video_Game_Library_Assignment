@@ -1,0 +1,13 @@
+src/
+└── videogamelibrary/
+    ├── AbstractGame.java          // with package declaration
+    ├── SinglePlayerGame.java      // with package declaration
+    ├── MultiplayerGame.java       // with package declaration
+    ├── OnlineGame.java            // with package declaration
+    ├── Playable.java              // with package declaration
+    ├── UserProfile.java           // with package declaration
+    ├── GameLibrary.java           // with package declaration
+    ├── DataHandler.java           // with package declaration
+    ├── GameController.java        // with package declaration
+    ├── MainApp.java               // with package declaration
+    └── GameProgressException.jav
